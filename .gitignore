@@ -4,9 +4,4 @@ __pycache__/
 .DS_Store
 data/application_record.csv
 data/credit_record.csv
-models/*.pkl
-models/*.json
-outputs/*.png
 deployment/watson_deployment.json
-
-venv/
